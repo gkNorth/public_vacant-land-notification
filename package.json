@@ -1,0 +1,27 @@
+{
+  "name": "public_vacant-land-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkNorth/public_vacant-land-notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkNorth/public_vacant-land-notification/issues"
+  },
+  "homepage": "https://github.com/gkNorth/public_vacant-land-notification#readme",
+  "dependencies": {
+    "gmail-send": "^1.8.14",
+    "mysql2": "^2.3.3",
+    "puppeteer": "^14.1.1",
+    "sequelize": "^6.19.2"
+  }
+}

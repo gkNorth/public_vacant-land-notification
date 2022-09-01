@@ -1,0 +1,23 @@
+[
+  {
+    "name": "サイト1",
+    "url": "https://example.com",
+    "liClass": ".item",
+    "ttlClass": ".title a",
+    "priceClass": ".price"
+  },
+  {
+    "name": "サイト2",
+    "url": "https://example.com",
+    "liClass": ".item",
+    "ttlClass": ".title a",
+    "priceClass": ".price"
+  },
+  {
+    "name": "サイト3",
+    "url": "https://example.com",
+    "liClass": ".item",
+    "ttlClass": ".title a",
+    "priceClass": ".price"
+  }
+]
